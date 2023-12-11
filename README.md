@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jppisco
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning ReactJs and Node.Js
+- 🌱 I’m currently learning React and Node.Js
 - 💞️ I’m looking to collaborate on software for area QA in Gluky Group S.A.S
 - 📫 How to reach me juan123pisco765@gmail.com
 
